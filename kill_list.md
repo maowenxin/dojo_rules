@@ -6,4 +6,4 @@ Kill List
     Unformatted code
     Repeated code blocks
     Bad variable names
-
+different plaform and technologies to solve the same problem.
